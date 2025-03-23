@@ -13,32 +13,41 @@
   <a href="https://www.instagram.com/ale_crism/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/Alessandro-Silva-Lemos" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-##  Sobre Mim
+## 🚀 Tecnologias em Desenvolvimento
 
-Sou Alessandro,um estudante de **Engenharia de Software** apaixonado por tecnologia e desenvolvimento de software. **Desenvolvimento Fullstack, Cloud e Cybersecurity**. Adoro transformar ideias em soluções práticas e eficientes, e estou constantemente explorando novas tecnologias para expandir meu conhecimento sem me auto limitar a uma unica coisa.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="Cloud">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux">
+</p>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 👨‍💻 Sobre Mim  
 
-- **HTML**  
-  ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) <progress value="65" max="100"></progress> 49%  
-- **CSS**  
-  ![CSS](https://img.icons8.com/color/48/000000/css3.png) <progress value="60" max="100"></progress> 33%  
-- **JavaScript**  
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) <progress value="30" max="100"></progress> 15%  
-- **Python**  
-  ![Python](https://img.icons8.com/color/48/000000/python--v1.png) <progress value="25" max="100"></progress> 10%  
-- **Cloud Computing**  
-  ![Cloud](https://img.icons8.com/color/48/000000/cloud.png) <progress value="20" max="100"></progress> 7%  
-- **Cybersecurity**  
-  ![Cybersecurity](https://img.icons8.com/color/48/000000/cyber-security.png) <progress value="15" max="100"></progress> 4%  
+Olá! Meu nome é **Alessandro Silva Lemos**, sou estudante de **Engenharia de Software** e apaixonado por tecnologia.  
+Atualmente, estou focado em **Desenvolvimento Fullstack, Cloud e Cybersecurity**.  
+Adoro transformar ideias em soluções práticas e eficientes e estou sempre explorando novas tecnologias para expandir meu conhecimento.  
+
 ---
 
+## 🛠️ Habilidades Técnicas  
+
+📌 **Linguagens e Tecnologias que estou aprendendo:**  
+
+- **HTML** ![HTML](https://img.icons8.com/color/20/000000/html-5--v1.png) `▰▰▰▰▰▰▱▱▱▱ 60%`
+- **CSS** ![CSS](https://img.icons8.com/color/20/000000/css3.png) `▰▰▰▰▰▱▱▱▱▱ 40%`
+- **JavaScript** ![JavaScript](https://img.icons8.com/color/20/000000/javascript--v1.png) `▰▰▱▱▱▱▱▱▱▱ 20%`
+- **Python** ![Python](https://img.icons8.com/color/20/000000/python--v1.png) `▰▰▱▱▱▱▱▱▱▱ 20%`
+- **Cloud Computing** ![Cloud](https://img.icons8.com/color/20/000000/cloud.png) `▰▱▱▱▱▱▱▱▱▱ 10%`
+- **Cybersecurity** ![Cybersecurity](https://img.icons8.com/color/20/000000/cyber-security.png) `▰▱▱▱▱▱▱▱▱▱ 10%`
