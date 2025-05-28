@@ -2,7 +2,7 @@
 
 Olá! Eu sou Alessandro Silva Lemos, estou estudando desenvolvimento web full stack, apaixonado por criar soluções incríveis. Meu objetivo é dominar tanto o desenvolvimento full stack DevOps, buscando sempre simplicidade, eficácia e disciplina em meus projetos.
 
-## Sobre Mim
+## Sobre Mim 
 
 - 🌱 Atualmente estou estou estudando e me aprofundando em HTML e CSS.
 - 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
