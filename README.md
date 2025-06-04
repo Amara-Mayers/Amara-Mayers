@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub! 
+# Bem-vindo ao meu perfil do GitHub!
 
 Olá! Eu sou Alessandro Silva Lemos, estou estudando desenvolvimento web full stack, apaixonado por criar soluções incríveis. Meu objetivo é dominar tanto o desenvolvimento full stack DevOps, buscando sempre simplicidade, eficácia e disciplina em meus projetos.
 
