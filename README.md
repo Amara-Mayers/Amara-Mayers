@@ -4,7 +4,7 @@ Olá! Eu sou Alessandro Silva Lemos, estou estudando desenvolvimento web full st
 
 ## Sobre Mim 
 
-- 🌱 Atualmente estou estou estudando e me aprofundando em SQL, JavaScript, HTML e CSS.
+- 🌱 Atualmente estou estou estudando e me aprofundando em JavaScript, HTML e CSS.
 - 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
 - 🎯 Focado em me tornar um desenvolvedor full stack altamente competente e de relevância no mercado.
 ## Tecnologias e Ferramentas
