@@ -4,13 +4,12 @@
   font-family: arial;
 }
 body {
-  background-image: url(Earth.jpg);
+  background-image: url(./Fotos/Earth.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed; /* Garante que a imagem não role com a página */
-  min-height: 100vh; /* Faz o body ocupar no mínimo 100% da altura da tela */
-  /* As 3 linhas abaixo centralizam o .container na página */
+  background-attachment: fixed; 
+  min-height: 100vh; 
   display: flex;
   align-items: center;
   justify-content: center;
