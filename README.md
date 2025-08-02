@@ -21,6 +21,11 @@ Olá! Eu sou Alessandro Silva Lemos, estou estudando desenvolvimento web full st
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alessandro-Silva-Lemos&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Silva-Lemos&layout=compact&count_private=true&show_icons=true&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Entre em Contato
 
