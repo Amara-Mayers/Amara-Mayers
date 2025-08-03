@@ -57,11 +57,10 @@
   ---
 
   ## 📫 Entre em Contato
-  <div align="center">
-    [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:rewardsnum@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/alessandro-silva-lemos-4512b82ba/)
-    [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9745f5)](https://github.com/Alessandro-Silva-Lemos)
-  </div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:rewardsnum@gmail.com.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https:/https://www.linkedin.com/in/alessandro-silva-lemos-4512b82ba)
+
 
 </details>
 
