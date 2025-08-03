@@ -54,6 +54,11 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake.svg">
   </picture>
 
+  <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px"/>
+  <br>
+</p>
+
   ---
 
   ## 📫 Entre em Contato                                                                 
