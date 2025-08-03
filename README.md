@@ -66,4 +66,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=🌑+Explorando+o+Infinito...&fontColor=9745f5&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=&fontColor=9745f5&animation=twinkling"/>
