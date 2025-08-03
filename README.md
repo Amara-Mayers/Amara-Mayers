@@ -1,32 +1,70 @@
-# Bem-vindo ao meu perfil do GitHub!  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=000000&text=Wealcome&fontColor=9745f5&fontSize=30&animation=twinkling"/>
+<div align="center">
+      <img src="https://art.pixilart.com/sr249aad20b18c4.png" width="500">
 
-Olá! Eu sou Alessandro Silva Lemos, estou estudando desenvolvimento web full stack, apaixonado por criar soluções incríveis. Meu objetivo é dominar tanto o desenvolvimento full stack DevOps, buscando sempre simplicidade, eficácia e disciplina em meus projetos.
-
-## Sobre Mim 
-
-- 🌱 Atualmente estou estou estudando e me aprofundando em JavaScript, HTML e CSS.
-- 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
-- 🎯 Focado em me tornar um desenvolvedor full stack altamente competente e de relevância no mercado.
-## Tecnologias e Ferramentas
-
-<div style="display: flex;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3">
 </div>
 
-## Projetos
-(https://github.com/Alessandro-Silva-Lemos/Primeiro-Projeto) Pagina de Login
+---
 
-## Estatísticas do GitHub
+<details align="center">
+  <summary>
+    <samp>
+      <b>More</b>
+    </samp>
+  </summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alessandro-Silva-Lemos&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Silva-Lemos&layout=compact&count_private=true&show_icons=true&theme=github_dark)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake.svg">
-</picture>
-## Entre em Contato
+  <br>
 
-- 📫 Você pode me enviar um e-mail
-rewardsnum@gmail.com
+  ## 🚀 Sobre Mim
+  - 🌱 Estudando **JavaScript, HTML e CSS**
+  - 📚 Cursos: **JavaScript Completo (Origamid)** e **Imersão Front-End (Alura)**
+  - 🎯 Objetivo: Me tornar um desenvolvedor **Full Stack**
+  - 🌌 Buscando sempre simplicidade, eficácia e disciplina nos projetos
+
+  ---
+
+  ## ⚡ Tecnologias e Ferramentas
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap" height="45">
+  </div>
+
+  ---
+
+  ## 📂 Projetos em Destaque
+  - [🔑 Página de Login Responsiva](https://github.com/Alessandro-Silva-Lemos/Primeiro-Projeto)
+  - 🌑 Mais projetos em breve...
+
+  ---
+
+  ## 📊 Estatísticas do GitHub
+  <div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alessandro-Silva-Lemos&show_icons=true&theme=midnight-purple&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Silva-Lemos&layout=compact&theme=midnight-purple"/>
+  </div>
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alessandro-Silva-Lemos&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=9745f5" height="150">
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alessandro-Silva-Lemos/Alessandro-Silva-Lemos/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  ---
+
+  ## 📫 Entre em Contato
+  <div align="center">
+    [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:rewardsnum@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/alessandro-silva-lemos-4512b82ba/)
+    [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=9745f5)](https://github.com/Alessandro-Silva-Lemos)
+  </div>
+
+</details>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=🌑+Explorando+o+Infinito...&fontColor=9745f5&animation=twinkling"/>
