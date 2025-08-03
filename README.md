@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=000000&text=Wealcome&fontColor=9745f5&fontSize=30&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=000000&text=Welcome&fontColor=9745f5&fontSize=30&animation=twinkling"/>
 <div align="center">
       <img src="https://art.pixilart.com/sr249aad20b18c4.png" width="500">
 
