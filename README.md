@@ -18,7 +18,7 @@
   ## 🚀 Sobre Mim
   -  Estudando **JavaScript, HTML e CSS**
   -  Cursos: **JavaScript Completo (Origamid)** e **Imersão Front-End (Alura)**
-  -  Objetivo: Me tornar um desenvolvedor **Full Stack**
+  -  Objetivo: Me tornar uma desenvolvedora **Full Stack**
   -  Buscando sempre simplicidade, eficácia e disciplina nos projetos
 
   ---
