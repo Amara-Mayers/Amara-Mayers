@@ -1,26 +1,28 @@
-name: Streak diário
+name: Daily Streak
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # todo dia ao meio-dia (UTC)
-  workflow_dispatch:       # permite rodar manualmente também
+    - cron: "0 12 * * *"  # todo dia ao meio-dia UTC
+  workflow_dispatch:      # permite rodar manualmente
 
 jobs:
-  commit-streak:
+  daily-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # necessário pra push
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      # 1️⃣ Pega o código do repo
+      - uses: actions/checkout@v4
 
-      - name: Configurar Git
+      # 2️⃣ Configura o Git com seu usuário
+      - name: Configure Git
         run: |
-          git config user.name "SeuNome"
-          git config user.email "seuemail@example.com"
+          git config user.name "amara-mayers"
+          git config user.email "rewardsnum@gmail.com"
 
-      - name: Criar commit vazio
-        run: |
-          git commit --allow-empty -m "Commit automático streak - $(date +'%Y-%m-%d')" || echo "Nada para commitar"
-      
-      - name: Push pro GitHub
-        run: git push
+      # 3️⃣ Commit automático diário (mesmo sem mudanças)
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Streak diário - $(date +'%Y-%m-%d')"
+          skip_dirty_check: true
