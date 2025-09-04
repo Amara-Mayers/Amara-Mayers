@@ -1,20 +1,26 @@
-import os
-from datetime import datetime
+name: Streak diário
 
-# Caminho do seu repositório local (onde você quer os commits)
-repo_path = r"C:\caminho\do\seu\repositorio"
+on:
+  schedule:
+    - cron: "0 12 * * *"  # todo dia ao meio-dia (UTC)
+  workflow_dispatch:       # permite rodar manualmente também
 
-# Mensagem do commit com a data
-commit_message = f"Commit automático streak - {datetime.now().strftime('%Y-%m-%d')}"
+jobs:
+  commit-streak:
+    runs-on: ubuntu-latest
 
-# Muda para a pasta do repo
-os.chdir(repo_path)
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-# Adiciona todas as mudanças (se não houver mudanças, ainda assim cria um commit vazio)
-os.system("git add .")
+      - name: Configurar Git
+        run: |
+          git config user.name "SeuNome"
+          git config user.email "seuemail@example.com"
 
-# Commit
-os.system(f'git commit -m "{commit_message}" --allow-empty')  # <-- commit vazio permite criar streak sem mudar arquivos
-
-# Push pro GitHub
-os.system("git push")
+      - name: Criar commit vazio
+        run: |
+          git commit --allow-empty -m "Commit automático streak - $(date +'%Y-%m-%d')" || echo "Nada para commitar"
+      
+      - name: Push pro GitHub
+        run: git push
