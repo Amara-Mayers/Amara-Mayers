@@ -61,7 +61,7 @@
   ---
 
   ## 📫 Entre em Contato                                                                 
-       
+        
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:rewardsnum@gmail.com.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/amara-mayers-silva-lemos-4512b82ba)
