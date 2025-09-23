@@ -26,3 +26,4 @@ jobs:
         with:
           commit_message: "Streak diário - $(date +'%Y-%m-%d')"
           skip_dirty_check: true
+          commit_options: '--allow-empty'
